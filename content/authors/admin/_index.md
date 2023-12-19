@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: phD in Beijing
+role: Beijing Jiaotong University, Beijing, China
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
